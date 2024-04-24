@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This version of Misskey Hub is no longer maintained, but you can still access the site at https://legacy.misskey-hub.net/ . \
+> Further development will take place in the [misskey-dev/misskey-hub-next](https://github.com/misskey-dev/misskey-hub-next) repository.
+
 # Misskey Hub
 Misskey Hub is an Official Site of Misskey.
 
